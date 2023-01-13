@@ -7,10 +7,6 @@ After this I start to select the information I wanted and how to organize it in 
 
 Basically I used the REACT - ROUTER - DOM  library in order to implement dynamic routing in order to keep my web app as a single web app.
 
-<img width="741" alt="mrouting codeshot" src="https://user-images.githubusercontent.com/115631586/212302681-b6217b29-ff80-4070-915a-ccb2804a7e63.png">
-
-
-On the screenshot above you can see that I’ve called createRoot in order to create a react root for displaying content inside the browser which will be provided by the bit of code bellow.
 
 <img width="725" alt="routing codeshot" src="https://user-images.githubusercontent.com/115631586/212302846-51792852-3573-4a55-a0f1-025d7a939893.png">
 
